@@ -1,6 +1,7 @@
 <div align="center">
 
-# Rayphoenix by Ray Laboratories
+# Rayphoenix
+##### Made by Camila "Mocha" Rose
 ### A lightning-fast URL shortening service powered by Go & Ruby
 
 [![Version](https://img.shields.io/badge/version-1.0.0-purple)](https://github.com/yourusername/rayphoenix)
